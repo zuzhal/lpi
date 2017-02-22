@@ -14,8 +14,7 @@ SAT solverov je veľa, budeme používať [MiniSAT](http://minisat.se/).
 Binárka pre Windows sa dá stiahnuť priamo na ich stránke, ale potrebuje ešte
 2 knižnice (cygwin1.dll, cygz.dll). Všetky tri súbory sa nachádzajú v adresári
 s [nástrojmi](../tools/).
-V Mac OS X si môžete nainštalovať balíčkový systém [Homebrew](http://brew.sh/)
-a potom nainštalovať MiniSAT príkazom `brew install minisat`.
+[Návod na inštaláciu v macOS…](../docs/macos-minisat.md)
 
 Všetky potrebné súbory k tomuto cvičeniu si môžete stiahnuť pohromade
 ako jeden zip súbor
