@@ -8,6 +8,7 @@ Logika pre informatikov
 Praktické cvičenia
 ------------------
 
+* [Cvičenie 1](cvicenia/cv01) (SAT solver)
 
 Pravidlá pre praktické cvičenia
 -------------------------------
