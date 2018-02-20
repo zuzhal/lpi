@@ -5,10 +5,11 @@ Logika pre informatikov
 
 [Inštrukcie na odovzdávanie riešení](docs/odovzdavanie.md).
 
-Praktické cvičenia
-------------------
+Sady úloh
+---------
 
-* [Cvičenie 1](cvicenia/cv01) (SAT solver)
+* Sada úloh 1: [teoretická časť (výroková syntax a formalizácia)](ulohy/su01.pdf)
+  a [praktická časť (SAT solver)](cvicenia/cv01)
 
 Pravidlá pre sady úloh
 ----------------------
