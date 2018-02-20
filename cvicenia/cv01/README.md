@@ -226,7 +226,7 @@ do konjunktívnej normálnej formy:
 premennými, nie číslami.  Keď budete chcieť pustiť SAT solver, môžete použiť
 priložený pythonovský program [`text2dimacs.py`](text2dimacs.py), ktorý vám
 takýto súbor „preloží“ na číselný vstup pre SAT solver. Rovnako môžete použiť
-aj javascript verziu v [`text2dimacs.html`].*
+aj [online konvertor](https://dai.fmph.uniba.sk/courses/lpi/text2dimacs/).*
 
 ```
 c X je buď Rus alebo Nemec
