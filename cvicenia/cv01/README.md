@@ -192,11 +192,11 @@ dotyčný Rus, Nemec, respektíve špión (keďže zo zadania je zrejmé, že ka
 *buď Nemec alebo Rus*, tak by nám mohla stačiť aj iba jedna premenná namiesto
 týchto dvoch).
 
-|    |   |                   |    |   |                 |    |   |                 |
-|----|---|-------------------|----|---|-----------------|----|---|-----------------|
-| RS | 1 | Stirlitz je Rus   | RM | 2 | Müller je Rus   | RE | 3 | Eismann je Rus   |
-| NS | 4 | Stirlitz je Nemec | NM | 5 | Müller je Nemec | NE | 6 | Eismann je Nemec |
-| SS | 7 | Stirlitz je špión | SM | 8 | Müller je špión | SE | 9 | Eismann je špión |
+|    |                   |    |                 |    |                  |
+|----|-------------------|----|-----------------|----|------------------|
+| RS | Stirlitz je Rus   | RM | Müller je Rus   | RE | Eismann je Rus   |
+| NS | Stirlitz je Nemec | NM | Müller je Nemec | NE | Eismann je Nemec |
+| SS | Stirlitz je špión | SM | Müller je špión | SE | Eismann je špión |
 
 Táto reprezentácia umožňuje, aby niekto z nich nebol ani Nemec, ani Rus, alebo
 bol oboje. Ako prvé teda napíšeme formuly, ktoré zabezpečia, že každý z nich je
