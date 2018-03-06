@@ -1,0 +1,41 @@
+﻿¬RS v ¬NS
+NS v RS
+¬RM v ¬NM
+NM v RM
+¬RE v ¬NE
+NE v RE
+RS v NS v NS
+RS v NS v NM
+RS v NS v RE
+RS v RM v NS
+RS v RM v NM
+RS v RM v RE
+RS v NE v NS
+RS v NE v NM
+RS v NE v RE
+NM v NS v NS
+NM v NS v NM
+NM v NS v RE
+NM v RM v NS
+NM v RM v NM
+NM v RM v RE
+NM v NE v NS
+NM v NE v NM
+NM v NE v RE
+NE v NS v NS
+NE v NS v NM
+NE v NS v RE
+NE v RM v NS
+NE v RM v NM
+NE v RM v RE
+NE v NE v NS
+NE v NE v NM
+NE v NE v RE
+¬RS v SS
+¬RM v SM
+¬RE v SE
+¬NM v RS
+¬RS v NM
+RE
+SE
+ 
